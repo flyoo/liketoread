@@ -23,6 +23,10 @@ namespace Mytest
 //	            this.y = y;
 //	        }
     }
+<<<<<<< HEAD
 }
 
  我们发现，定义结构体和定义类，非常相似，一个差别在于，一个是class，一个是struct。。。
+=======
+}
+>>>>>>> refs/remotes/origin/master
